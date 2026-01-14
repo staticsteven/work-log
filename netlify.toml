@@ -1,0 +1,13 @@
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/*.md"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+    Content-Type = "text/markdown; charset=utf-8"
