@@ -1,3 +1,7 @@
+## Jan 13
+- Followed [this tutorial](https://www.createwithswift.com/creating-a-live-audio-waveform-in-swiftui/) to build an animated waveform. It's super slow right now so need to debug. The goal is to turn this into a shader for the Magic Marker project
+- Also built this new log page :D
+
 ## Nov 22
 
 - PowerLink:
