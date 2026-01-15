@@ -1,3 +1,7 @@
+## Jan 15
+- Did some design in Figma for Aardvark (apple analytics app) with some new custom typefaces I bought. This will be the first time I release an app using a non-Apple typeface which is definitely something new for me. Also used the Figma MCP to actually implement this in the app and it did a great first pass. 
+- Updated the Aardvark widgets as well to match the new design system.
+
 ## Jan 13
 - Followed [this tutorial](https://www.createwithswift.com/creating-a-live-audio-waveform-in-swiftui/) to build an animated waveform. It's super slow right now so need to debug. The goal is to turn this into a shader for the Magic Marker project
 - Also built this new log page :D
