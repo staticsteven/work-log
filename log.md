@@ -1,6 +1,10 @@
 ## Jan 16
+**Aardvark**
 - Submitted a TestFlight build for Aardvark so I can start that approval process. I spent a little bit of time tweaking the data syncing process so we aren't making too many unnecessary API calls
 - I also generated a new iOS icon that better matched the new dark mode aesthetic. 
+**Magic Marker**
+- I made some refinements to the audio brush to make it, it's kind of fun. The way it works right now is twofold - based on the sounds you make while drawing it will appear differently (stroke width + colours). Then once it's drawn, if you speak or make noise the strokes will react to the sound as well. The colours are ugly and we can refine here, but it's more fun. I want to update this to be a bit _more_ like perhaps spawning some flair while drawing depending on the sound.
+- I also prototyped a new glow-in-the-dark brush that is a bit like a neon sign. It's partially working.
 
 ## Jan 15
 - Did some design in Figma for Aardvark (apple analytics app) with some new custom typefaces I bought. This will be the first time I release an app using a non-Apple typeface which is definitely something new for me. Also used the Figma MCP to actually implement this in the app and it did a great first pass. 
