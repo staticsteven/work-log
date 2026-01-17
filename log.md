@@ -1,3 +1,7 @@
+## Jan 16
+- Submitted a TestFlight build for Aardvark so I can start that approval process. I spent a little bit of time tweaking the data syncing process so we aren't making too many unnecessary API calls
+- I also generated a new iOS icon that better matched the new dark mode aesthetic. 
+
 ## Jan 15
 - Did some design in Figma for Aardvark (apple analytics app) with some new custom typefaces I bought. This will be the first time I release an app using a non-Apple typeface which is definitely something new for me. Also used the Figma MCP to actually implement this in the app and it did a great first pass. 
 - Updated the Aardvark widgets as well to match the new design system.
@@ -6,6 +10,17 @@
 ## Jan 13
 - Followed [this tutorial](https://www.createwithswift.com/creating-a-live-audio-waveform-in-swiftui/) to build an animated waveform. It's super slow right now so need to debug. The goal is to turn this into a shader for the Magic Marker project
 - Also built this new log page :D
+  
+## Jan 10
+  - Started up MagicMarker again - incorporated Fal.ai for some realtime, LCM kind of. It doesn't look good.
+  - I need to actually design a placeholder UI for MagicMarker since the LLM isn’t good at it so far.
+
+## Dec 1
+  - no new update. But been moving and sick. Applied to the Dwarkesh job.
+  
+## Nov 23
+  - Submitted the holiday version of D+ for review
+  - Revising writing for my Knife post. But more of a family day.
 
 ## Nov 22
 
