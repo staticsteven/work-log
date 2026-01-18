@@ -1,3 +1,11 @@
+## Jan 17
+**Magic Marker**
+- Serenditously came up a cool 3d looking brush type while trying to get the glow in the dark brush to work. I decided to save it as a new option.
+- Still struggling with the shader for the neon brush.
+**Other Projects**
+- This was supposed to be the year I take writing more seriously and instead I find myself full of energy to put towards building instead. I started hacking on a quick "guess the image prompt" game. I'll try to finish it tomorrow and share it with some friends. It might be totally un-fun.
+- Lastly, I randomly decided to start [this tutorial](https://viewsourcecode.org/snaptoken/kilo/) about building a terminal-based text editor in C lol. I don't even know C (only elements from Obj-C and dabbling in C#) but it's fun to follow along.
+
 ## Jan 16
 **Aardvark**
 - Submitted a TestFlight build for Aardvark so I can start that approval process. I spent a little bit of time tweaking the data syncing process so we aren't making too many unnecessary API calls
