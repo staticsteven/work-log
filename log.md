@@ -1,3 +1,22 @@
+# 2026
+## Jan 25
+- Crazy amounts of progress this weekend. We added so many new brush types to Magic Marker and I've started thinking of a better name (I don't like MM). We have an audio recording brush (different than before), fire, spiral, paint splatter, and a new AI stamp box that will generate stamps based on a voice command. 
+
+## Jan 22
+- Slower on the builds since I used my Claude Code weekly limit lol.
+- Added multi-touch support to Magic Marker. I was testing it with Serena yesterday and it didn't go well when her hand was all over the screen.
+- Finished up to Section 5 of the C text editor (it's got full, basic functionality now). Cool to see it come together. I think I will do a short write up of things I have learned just so I can remember. Spoiler: It's not a ton.
+- My app analytics tool got approved for TestFlight so I need to finish some of the core stuff before sending that to some friends. The Onboarding could definitely use some love since it's a bit of a hassle getting your API key onto your phone (there's no OAuth style option & I made it mobile only)
+
+## Jan 19
+- Built the brush config tools so that I can iterate on the look and feel in real-time. A quick play around with that interface and I think I need to expose more properties -- I'm not actually sure what/how to tweak things yet to have them feeling better.
+- Changed how bubbles are rendered. Apparently Metal has a limitation of ~511px for point/vertex shaders so we need to use quads now. Now they can stretch to the full size. Added a little bit of distortion as well so they feel slightly more bubbly.
+- Started on a new dripping brush as well.
+
+## Jan 18
+- Guess the prompt was boring. Killing that project.
+- Debugged the neon brush. I'm going to expose some "level editor" like tools for the shaders soon so I can tweak values easier directly on the ipad. Right now rebuilding and testing is really slow to iterate on specific values. I want to build up maybe 20 different brush/shader types before starting to test the idea out with friends.
+
 ## Jan 17
 ### Magic Marker
 - Serenditously came up a cool 3d looking brush type while trying to get the glow in the dark brush to work. I decided to save it as a new option.
