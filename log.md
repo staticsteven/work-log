@@ -1,4 +1,7 @@
 # 2026
+## Jan 27
+- I've started testing out the Linear <> Codex integration. I'm not really a big git user (solo dev + bad iCloud habits) but am trying to get into it so I can have agents do development from the phone.
+
 ## Jan 25
 - Crazy amounts of progress this weekend. We added so many new brush types to Magic Marker and I've started thinking of a better name (I don't like MM). We have an audio recording brush (different than before), fire, spiral, paint splatter, and a new AI stamp box that will generate stamps based on a voice command. 
 
