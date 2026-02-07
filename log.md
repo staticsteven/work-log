@@ -1,4 +1,8 @@
 # 2026
+## Feb 6
+- Been slowly iterating on new brushes for MagicMarker, which I've renamed to Inkbit for now. I prefer that name. I've added a flower brush (needs work), a striped brush, a fun clear the screen, a translucent brush. I started playing with the dripping style but still can't get one that doesn't suck. Also trying to play with blend modes but I'm not sure a good approach for this. I will need to consult a friend who understands colours and layers.
+- And, of course, 4 days before the baby is set to arrive, I've started another game prototype. I start them as fast as I abandon them. This one is written in GDScript. I started trying to use AI to code it but wasn't happy with the direction (more so game design than output) so I decided to code it myself. So far just getting core mechanics set up and using imagegen tools to get placeholder art in place.
+
 ## Jan 27
 - I've started testing out the Linear <> Codex integration. I'm not really a big git user (solo dev + bad iCloud habits) but am trying to get into it so I can have agents do development from the phone.
 
