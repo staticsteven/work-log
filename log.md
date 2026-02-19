@@ -1,4 +1,8 @@
 # 2026
+## Feb 18
+- Life has been busy but the baby still isn't here. Instead I've been ripping through new brush prototypes. I added: mirrored brush, marching ants, clouds, alphabet, new rainbow style, eyeballs, snowflakes. It's been fun seeing how quick some of these can come together. Brand/art direction still needs a lot of work.
+- I've still been going through my game prototype. I described it to a friend like so: Trying a card-style approach where you have a deck of ingredients that you are trying to combine to satisfy a guest’s craving (ex: looking for something sweet, preferably with fruit in it) and in your hand you have like eggs, dough, pork, strawberry, corn, garlic, whipped cream. Still tweaking the core loop to find the fun. There will be some other secondary systems but for right now, serving a guest needs to feel better.
+  
 ## Feb 6
 - Been slowly iterating on new brushes for MagicMarker, which I've renamed to Inkbit for now. I prefer that name. I've added a flower brush (needs work), a striped brush, a fun clear the screen, a translucent brush. I started playing with the dripping style but still can't get one that doesn't suck. Also trying to play with blend modes but I'm not sure a good approach for this. I will need to consult a friend who understands colours and layers.
 - And, of course, 4 days before the baby is set to arrive, I've started another game prototype. I start them as fast as I abandon them. This one is written in GDScript. I started trying to use AI to code it but wasn't happy with the direction (more so game design than output) so I decided to code it myself. So far just getting core mechanics set up and using imagegen tools to get placeholder art in place.
