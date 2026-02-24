@@ -1,4 +1,8 @@
 # 2026
+## Feb 23
+- I recently became inspired to revisit the UI for [Streamline](https://staticloop.co/streamline). Over the weekend I mostly focused on trying to follow the Liquid Glass updates more closely and tweak the app icon. It's fun to have it feeling a bit better (though I might just be biased by a few apps I'm drawing inspiration from), and good to just get back to writing a tiny bit of annoying SwiftUI code.
+- I've been doing a little bit of tweaking to the more recent brushes in Inkbit (working title) to make them look and feel a bit more nicer. I need to let the app stew for a bit as I think about the project more.
+
 ## Feb 18
 - Life has been busy but the baby still isn't here. Instead I've been ripping through new brush prototypes. I added: mirrored brush, marching ants, clouds, alphabet, new rainbow style, eyeballs, snowflakes. It's been fun seeing how quick some of these can come together. Brand/art direction still needs a lot of work.
 - I've still been going through my game prototype. I described it to a friend like so: Trying a card-style approach where you have a deck of ingredients that you are trying to combine to satisfy a guest’s craving (ex: looking for something sweet, preferably with fruit in it) and in your hand you have like eggs, dough, pork, strawberry, corn, garlic, whipped cream. Still tweaking the core loop to find the fun. There will be some other secondary systems but for right now, serving a guest needs to feel better.
