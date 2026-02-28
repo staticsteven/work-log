@@ -1,4 +1,9 @@
 # 2026
+## Feb 28
+- We are mostly done the new version of Streamline. It's primarily UI updates with a couple small enhancements (the ability to set a goal time per event and support for a new set of time standards). I'll try to finish this in March (trying to be realistic here)
+- I have been iterating on the card game here and there, trying to find at the least the core loop. I'm stuck in a refactor phase right now because the code base was a mess after following a couple different tutorials that weren't the best from a code quality standpoint. 
+- Lastly, built a couple small new brushes for Inkbit. Still focused on going as wide as possible before figuring out what actually fits with the vibe. I added a "glitchy" brush, a paw prints one, a new type of audio one. I am overdue for another brainstorming session to build up the backlog of what else it could be.
+
 ## Feb 23
 - I recently became inspired to revisit the UI for [Streamline](https://staticloop.co/streamline). Over the weekend I mostly focused on trying to follow the Liquid Glass updates more closely and tweak the app icon. It's fun to have it feeling a bit better (though I might just be biased by a few apps I'm drawing inspiration from), and good to just get back to writing a tiny bit of annoying SwiftUI code.
 - I've been doing a little bit of tweaking to the more recent brushes in Inkbit (working title) to make them look and feel a bit more nicer. I need to let the app stew for a bit as I think about the project more.
