@@ -1,4 +1,10 @@
 # 2026
+## March 9th
+- Been away for a little. Had a baby. I'm off for another week so trying to get through any projects I can while I have small amounts of time and energy (she is still sleeping lots).
+- Been ripping through some of the Streamline updates. Getting some help from Dylan on the UI which will be very valuable since it's kind of falling apart (and it's way too early in its life for that)
+- I was feeling inspired so I prototyped and built a full iOS game tonight. I'll probably be able to send it to a friend tomorrow and then to a few more friends by the end of the week. It needs lots of UI love, balancing, content, etc. But the core idea is there and time to keep seeing if it's fun.
+- The cooking card game is chugging along. I've put together the core loop and am building out small interactions next (discard, hover to preview). It's getting close to be able to do very very early play tests just to see if it's fun.
+
 ## Feb 28
 - We are mostly done the new version of Streamline. It's primarily UI updates with a couple small enhancements (the ability to set a goal time per event and support for a new set of time standards). I'll try to finish this in March (trying to be realistic here)
 - I have been iterating on the card game here and there, trying to find at the least the core loop. I'm stuck in a refactor phase right now because the code base was a mess after following a couple different tutorials that weren't the best from a code quality standpoint. 
