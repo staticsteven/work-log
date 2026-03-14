@@ -1,4 +1,8 @@
 # 2026
+## March 14th
+- Ok we have been going ham on the new game, Gallows. It's fun, I've been iterating on the UI and a lot of the content, and am ready to send it to some friends for playtesting this weekend. Spend most of my daily/weekly claude tokens on this. It moved well.
+- For streamline, I've been working through some of the UI feedback to get that cleaned up and pared back some of the original scope from this version. I want to get it out this month and don't have much left. Part of what I am improving is the onboarding flow so it's clearer for the core steps (adding a swim meet / best time) but also presenting the optional paywall to see if we get an uptick in trials.
+
 ## March 9th
 - Been away for a little. Had a baby. I'm off for another week so trying to get through any projects I can while I have small amounts of time and energy (she is still sleeping lots).
 - Been ripping through some of the Streamline updates. Getting some help from Dylan on the UI which will be very valuable since it's kind of falling apart (and it's way too early in its life for that)
