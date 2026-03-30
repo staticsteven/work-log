@@ -1,4 +1,9 @@
 # 2026
+## March 29th
+- Iterating on the new game a lot. Balancing content updates (lots of too hard guessing), UI iteration (trying to find some themes that look good), crashes and feedback from testing, and some game design. It's fun. It feels like it's not too far from being feature complete (maybe another week) but lots of love needed on the polish still.
+- Released the update to Streamline. Downloads are super low (1 every couple days) so it will take a few weeks to see if the new onboarding makes a difference.
+- For Destructomath+, I made a couple tweaks. I added Posthog for analytics (we had Mixpanel but I never checked it) and I instrumented the onboarding tutorial. I'm curious to see how many people play beyond the tutorial. I also adjusted how the ads present (before it was opt-in but now it's automatic, I think it might actually be better). I submitted that to review this morning so I likely won't see results for another week.
+
 ## March 14th
 - Ok we have been going ham on the new game, Gallows. It's fun, I've been iterating on the UI and a lot of the content, and am ready to send it to some friends for playtesting this weekend. Spend most of my daily/weekly claude tokens on this. It moved well.
 - For streamline, I've been working through some of the UI feedback to get that cleaned up and pared back some of the original scope from this version. I want to get it out this month and don't have much left. Part of what I am improving is the onboarding flow so it's clearer for the core steps (adding a swim meet / best time) but also presenting the optional paywall to see if we get an uptick in trials.
