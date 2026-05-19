@@ -1,4 +1,15 @@
 # 2026
+## May 18th
+- I am really bad at this, but I'll spend less time apologizing. I'm in the final mile for Inkling (which we all know takes at least as long as the rest of the build), second guessing the UI and implementing animations and polish. I am inching closer, and have set a deadline for the end of the month. I need to actually FOCUS on finishing it. 
+- I quickly prototyped 2 other ideas this weekend (god bless Codex), one of which is throwaway but the 2nd is kind of fun. I will refrain from working on it until I finish Inkling.
+- I am re-considering having Ads in Inkling and might just have a Pro (or w/e) mode with more of the endless play and other things. Perhaps the Daily mode is available for free.
+- The 2nd app I need to finish is Split, my stopwatch app for Swim coaches. It's fairly simple, but focused on solid UX for multi-lane split timing. I've implemented a cool interaction with the volume buttons, but its kind of flakey. I need to refine the implementation and see if I can make it reliable.
+
+## April 24th
+- Recorded a Destructomath+ App Preview after a week or so of procrastinating. Of course I learned that I uploaded it at the wrong resolution and need to fix it, it's only appearing on a certain subset of devices right now.
+- Trying to do some UI clean up on Streamline which means re-creating things in Figma so I can experiment. Working directly in SwiftUI makes things too slow as the app scales and relies on data. This way I can adjust small things like line height, spacing, etc.
+- Very happy with the progress on Inkling, the new game I started ~6-7 weeks ago. It's hangman meets crossword puzzles. I spent a lot of time iterating on the UI and I think it's getting to a good spot. I'm mostly tweaking some polish and working on the tutorial next before I do a wider beta. My goal is to release by June
+
 ## March 29th
 - Iterating on the new game a lot. Balancing content updates (lots of too hard guessing), UI iteration (trying to find some themes that look good), crashes and feedback from testing, and some game design. It's fun. It feels like it's not too far from being feature complete (maybe another week) but lots of love needed on the polish still.
 - Released the update to Streamline. Downloads are super low (1 every couple days) so it will take a few weeks to see if the new onboarding makes a difference.
