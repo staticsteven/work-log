@@ -1,4 +1,8 @@
 # 2026
+## June 26th
+- I've been following along with Handmade Hero (a decade later) and am up to episode 18. I want to start writing a short note after each episode. I'm watching them at 1.5x speed and it can go by quickly, even as I follow along with the code (I'm doing a Mac platform layer instead of win32) so I can't always be sure I get everything. 
+- The core of e18 is unifying the keyboard & controller input. Right now we have controller as our primary input, specifically looking at the d-pad (4 directions), 2 shoulder buttons, plus A/B/X/Y (or equivalent). To make the joystick work, we essentially convert the input into the d-pad equivalent (if the average x-offset of the joystick is negative, convert that to just pressing left on the dpad, for example). Then, with the keyboard, we do the same thing. We make WASD map to the dpad as if the play pressed on the controller. By forwarding all the events into a single processing approach we can keep things simpler.
+
 ## May 18th
 - I am really bad at this, but I'll spend less time apologizing. I'm in the final mile for Inkling (which we all know takes at least as long as the rest of the build), second guessing the UI and implementing animations and polish. I am inching closer, and have set a deadline for the end of the month. I need to actually FOCUS on finishing it. 
 - I quickly prototyped 2 other ideas this weekend (god bless Codex), one of which is throwaway but the 2nd is kind of fun. I will refrain from working on it until I finish Inkling.
