@@ -1,7 +1,20 @@
 # 2026
+
+## July 3rd
+- Episode 23 focused on input looping (building on the hot reloading code) that allows you to "loop input" aka keep replaying what the player did making it much easier to tweak parameters like how high you jump. Instead of needing to keep picking up the controller and jumping again and again, you record yourself jumping once, and it's playing back the jump live as you tweak the gravity values.
+
+## July 2nd
+- Episode 19 & 20 were about improving sound. Essentially to write sound out you need to give it the sound to play next while it's actively playing. It's a little bit like laying a train track as the train is going, and you can't lay it too far in advance because there the train goes next is being decided milliseconds before (based on player interaction). Having a latent sound card makes this more challenging, because by the time it tells you where it's currently playing + where you can write from, that information is a bit inaccurate, so you need to build in a safety margin so you don't have gaps. Missing sound is far easier to notice than dropped frames.
+- Episode 21/22/23 are about hot reloading, meaning we can change the code and keep the game running without needing to start it all over again, making iterating far faster. This is one of the key principles to making something good - what is the time it takes to get a feedback loop and iterate. If it's long and challenging, you are far less likely to spend a lot of time polishing.
+- bought a couple asset packs on itch (prematurely) to help with prototyping my project for HMH
+
+## June 27
+- Episode 18 is about getting a basic loop going, specifically syncing to ~60fps. Right now the loop kind of fries your CPU because it has something to do all the time, instead of doing things for 16.6ms (1/60th of a second). So what we need to do is when the work to update & render is done, we "sleep" for the remainder of the frame time and give capacity back to the CPU.
+- Also, Dylan and I are going to the Apple Office in Vancouver next month for a workshop about promoting your game on the App Store. I want to have a couple ideas for what we are going to build next by then, so I've been trying to prototype a few simple starting points for us to riff on.
+
 ## June 26th
-- I've been following along with Handmade Hero (a decade later) and am up to episode 18. I want to start writing a short note after each episode. I'm watching them at 1.5x speed and it can go by quickly, even as I follow along with the code (I'm doing a Mac platform layer instead of win32) so I can't always be sure I get everything. 
-- The core of e18 is unifying the keyboard & controller input. Right now we have controller as our primary input, specifically looking at the d-pad (4 directions), 2 shoulder buttons, plus A/B/X/Y (or equivalent). To make the joystick work, we essentially convert the input into the d-pad equivalent (if the average x-offset of the joystick is negative, convert that to just pressing left on the dpad, for example). Then, with the keyboard, we do the same thing. We make WASD map to the dpad as if the play pressed on the controller. By forwarding all the events into a single processing approach we can keep things simpler.
+- I've been following along with Handmade Hero (a decade later) and am up to episode 17 I want to start writing a short note after each episode. I'm watching them at 1.5x speed and it can go by quickly, even as I follow along with the code (I'm doing a Mac platform layer instead of win32) so I can't always be sure I get everything. 
+- The core of e17 is unifying the keyboard & controller input. Right now we have controller as our primary input, specifically looking at the d-pad (4 directions), 2 shoulder buttons, plus A/B/X/Y (or equivalent). To make the joystick work, we essentially convert the input into the d-pad equivalent (if the average x-offset of the joystick is negative, convert that to just pressing left on the dpad, for example). Then, with the keyboard, we do the same thing. We make WASD map to the dpad as if the play pressed on the controller. By forwarding all the events into a single processing approach we can keep things simpler.
 
 ## May 18th
 - I am really bad at this, but I'll spend less time apologizing. I'm in the final mile for Inkling (which we all know takes at least as long as the rest of the build), second guessing the UI and implementing animations and polish. I am inching closer, and have set a deadline for the end of the month. I need to actually FOCUS on finishing it. 
